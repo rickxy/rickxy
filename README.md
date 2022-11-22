@@ -66,7 +66,7 @@ I enjoy working on challenges and projects from freeCodeCamp and spend quality t
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
 
-![Erick O. Omundi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickxy&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+![Erick O. Omundi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickxy&show_icons=true&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 </span>
 <span align="right">
 
