@@ -70,5 +70,5 @@ I enjoy working on challenges and projects from freeCodeCamp and spend quality t
 </span>
 <span align="right">
 
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rickxy&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rickxy&hide_border=true&theme=black-ice&background=152238&stroke=00E6FE)
 </span>
