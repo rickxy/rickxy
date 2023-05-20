@@ -27,18 +27,12 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickxy&margin-w=15" alt="rickxy" /></a> 
 
   <p aligh="left">
-  💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code.\
-  🚧 &nbsp;I'm currently doing awesome projects at <a href="https://protech254.co.ke" target="_blank"><u>ProTech Corporation!</u></a> \
+  💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code. \
+  🚧 &nbsp;I'm currently doing awesome projects at <a href="https://protech254.co.ke" target="_blank"><u>ProTech Corporation!</u></a>  \
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/erick_omundi/status/1395627692561682432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/Erick_omundi?t=wvammjwu0mx0mg9whr24mg&s=09" height="30" width="40" /></a>
-<a href="https://ke.linkedin.com/in/erick-omundi-a71761145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ricky" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saxinnocent" height="30" width="40" /></a>
-</p>
 
 <img alt="writing codes" width='1300' height='500' align="center" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47o2ggol62o8sbe63ur5tr90j2vv3z7cs7am4if89k&rid=giphy.gif&ct=g">
 <br clear='all'/>
@@ -75,8 +69,8 @@
 
 <h2>🌎 &nbsp;Where to find me</h2>
 <p>
-  <a href="https://linkedin.com/in/erico" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://twitter.com/erico" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://ke.linkedin.com/in/erick-omundi-a71761145" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://twitter.com/erick_omundi/status/1395627692561682432" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
   <a href="mailto:erico@protrch.co.ke" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
