@@ -23,7 +23,7 @@
 
   <p aligh="left">
   💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code. <br>
-  🚧 &nbsp;I'm currently doing awesome projects at <a href="https://protech254.co.ke" target="_blank"><u>ProTech Corporation!</u></a>  \
+  🚧 &nbsp;I'm currently doing awesome projects at <a href="https://protech254.co.ke" target="_blank"><u>ProTech Corporation!</u></a>  <br>
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>
