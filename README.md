@@ -22,7 +22,8 @@ I enjoy working on challenges and projects from freeCodeCamp and spend quality t
   width="16"
   height="12"
   alt="Kenya"> <b>Nairobi and Kisii, Kenya</b>.</p>
-  	
+  	<img align="" width="1000" height="100" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
+   <br>
   💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code.\
   🚧 &nbsp;I'm currently doing awesome projects at <a href="https://protech254.co.ke" target="_blank"><u>ProTech Corporation!</u></a> \
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
