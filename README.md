@@ -4,12 +4,13 @@ java & android programming and testing. I am looking for new opportunities in th
 I enjoy working on challenges and projects from freeCodeCamp and spend quality time crafting
 
  -->
-
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Erick O. Omundi</b>
-<br>
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Full+Stack+Developer+)](https://git.io/typing-svg)
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
+
+
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Erick O. Omundi</b>
+<br>
 
 <img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="#">
 <p aligh="left">
