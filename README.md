@@ -75,6 +75,8 @@
 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickxy&show_icons=true&locale=en&layout=compact" alt="rickxy" /></p>
+
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
 
