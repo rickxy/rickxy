@@ -33,6 +33,16 @@
 </p>
 <br>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/erick_omundi/status/1395627692561682432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/Erick_omundi?t=wvammjwu0mx0mg9whr24mg&s=09" height="30" width="40" /></a>
+<a href="https://ke.linkedin.com/in/erick-omundi-a71761145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ricky" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saxinnocent" height="30" width="40" /></a>
+</p>
+
+<img alt="writing codes" width='1300' height='500' align="center" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47o2ggol62o8sbe63ur5tr90j2vv3z7cs7am4if89k&rid=giphy.gif&ct=g">
+<br clear='all'/>
+
 <h2>👨🏻‍💻 &nbsp;Development Tools And Environments:</h2>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
