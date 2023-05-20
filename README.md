@@ -22,8 +22,14 @@ I enjoy working on challenges and projects from freeCodeCamp and spend quality t
   width="16"
   height="12"
   alt="Kenya"> <b>Nairobi and Kisii, Kenya</b>.</p>
+  
   	<img align="" width="1000" height="100" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
    <br>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="innocentsax" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocentsax" alt="innocentsax" /></a> </p>
+
+  <p aligh="left">
   💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code.\
   🚧 &nbsp;I'm currently doing awesome projects at <a href="https://protech254.co.ke" target="_blank"><u>ProTech Corporation!</u></a> \
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
