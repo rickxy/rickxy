@@ -74,7 +74,7 @@
   <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rickxy&show_icons=true&locale=en&layout=compact" alt="rickxy" /></p>
 
 
-![Erick O. Omundi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickxy&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE)
+![Erick O. Omundi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickxy&show_icons=true&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=00E6FE)
 </span>
 <span align="right">
 
