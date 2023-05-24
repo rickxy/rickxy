@@ -27,7 +27,6 @@
 </p>
 <br>
 
-
 <img alt="writing codes" width='1300' height='500' align="center" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47o2ggol62o8sbe63ur5tr90j2vv3z7cs7am4if89k&rid=giphy.gif&ct=g">
 <br clear='all'/>
 
