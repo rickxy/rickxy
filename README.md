@@ -19,7 +19,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=rickxy&label=Profile%20views&color=0e75b6&style=flat" alt="rickxy" /> </p>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickxy&margin-w=15" alt="rickxy" /></a> 
-
   <p aligh="left">
   💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code. <br>
   🚧 &nbsp;I'm currently doing awesome projects at <a href="https://protech254.co.ke" target="_blank"><u>ProTech Corporation!</u></a>  <br>
