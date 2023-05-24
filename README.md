@@ -13,7 +13,6 @@
   width="16"
   height="12"
   alt="Kenya"> <b>Nairobi and Kisii, Kenya</b>.</p>
-  
  <img align="" width="1000" height="100" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
    <br>
   
